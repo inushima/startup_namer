@@ -1,6 +1,8 @@
-# startup_namer
+# flutter startup_namer
 
 generates proposed names for a startup company
+
+https://flutter.dev/docs/get-started/codelab
 
 ## Getting Started
 
